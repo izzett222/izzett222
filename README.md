@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I am Izzeddin Ishimwe.
-A full-stack developer from Rwanda.
+A full-stack developer.
 
 ### 🌱 I'm currently learning
 - Nodejs and Nestjs
