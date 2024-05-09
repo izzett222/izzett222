@@ -8,5 +8,3 @@ A full-stack developer.
 
 ### 📫 How to reach me:
 - Email: iizzeddin62@gmail.com
-- [Linkedin](https://www.linkedin.com/in/izzeddin-ishimwe-aa58371a5)
-- [Portfolio](https://izzeddin.netlify.com)
